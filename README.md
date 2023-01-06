@@ -1,2 +1,2 @@
 # MAT251-Project-Team-work
-Numerical Computation in Python for MAT251
+Numerical Computation Analysis in maple for MAT251
